@@ -1,0 +1,15 @@
+{
+	"users":[
+		{
+			"username":"",
+			"password":"",
+			"app_key":"",
+			"api_secret":"",
+			"redirect_uri":null
+		}
+	],
+	"api_limit_time":60,
+	"app_key":"",
+	"api_secret":"",
+	"redirect_uri":null
+}
